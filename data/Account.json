@@ -1,0 +1,147 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Maseno University",
+            "BillingStreet": "Maseno, Kondele Kisumu - Busia Rd",
+            "BillingCity": "Kisumu",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "3275-40100",
+            "Phone": "+254572021013",
+            "Website": "www.maseno.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Mount Kenya University",
+            "BillingStreet": "General Kago Rd",
+            "BillingCity": "Thika",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "342-01000",
+            "Phone": "+254702140074",
+            "Website": "www.mku.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "University of Nairobi",
+            "BillingStreet": "University way",
+            "BillingCity": "Nairobi",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "30197",
+            "Phone": "+254204910000",
+            "Website": "www.uonbi.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Name": "Nairobi Technical Training Institute",
+            "BillingStreet": "Mogira Rd",
+            "BillingCity": "Nairobi",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "30039-00100",
+            "Phone": "+254721233394",
+            "Website": "www.nairobitti.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
+            "Name": "Jomo Kenyatta University of Agriculture and Technology",
+            "BillingStreet": "Juja Kwale Rd",
+            "BillingCity": "Juja",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "62000-00200",
+            "Phone": "+254705950712",
+            "Website": "www.jkuat.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef6"
+            },
+            "Name": "Kenyatta University",
+            "BillingStreet": "Kahawa, Nairobi - Thika Rd",
+            "BillingCity": "Nairobi",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "43844-00100",
+            "Phone": "+254208704000",
+            "Website": "www.ku.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef7"
+            },
+            "Name": "Technical University of Kenya",
+            "BillingStreet": "Haile Selassie Avenue",
+            "BillingCity": "Nairobi",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "52428-00200",
+            "Phone": "+254(020)2219929",
+            "Website": "www.tukenya.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef8"
+            },
+            "Name": "Dedan Kimathi University of Technology",
+            "BillingStreet": "Nyeri - Mweiga Rd",
+            "BillingCity": "Nyeri",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "657-10100",
+            "Phone": "+254713123021",
+            "Website": "www.dkut.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef9"
+            },
+            "Name": "Strathmore University",
+            "BillingStreet": "Karen, Ole Sangale Rd",
+            "BillingCity": "Nairobi",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "59857-00200",
+            "Phone": "+254703034000",
+            "Website": "www.strathmore.edu"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef10"
+            },
+            "Name": "Technical University of Mombasa",
+            "BillingStreet": "Tom Mboya Street Tudor",
+            "BillingCity": "Mombasa",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "90420-80100",
+            "Phone": "+254724955377",
+            "Website": "www.tum.ac.ke"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef11"
+            },
+            "Name": "Moi University",
+            "BillingStreet": "Kesses",
+            "BillingCity": "Eldoret",
+            "BillingState": "Kenya",
+            "BillingPostalCode": "63056-00200",
+            "Phone": "+254790940508",
+            "Website": "www.mu.ac.ke"
+        }
+    ]
+}
